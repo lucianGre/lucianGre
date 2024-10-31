@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <h1 align="center"><b>Hi , I'm Lucian </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+<img align="right" width=300px alt="meme" src="https://tenor.com/1hRO.gif" />
 ***About me***
 
 I am a student.
