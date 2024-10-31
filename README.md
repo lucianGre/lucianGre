@@ -2,7 +2,7 @@
 
 <h1 align="center"><b>Hi , I'm Lucian </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://tenor.com/es/view/happy-halloween-halloween-happy-holidays-trick-or-treat-let's-get-spooky-gif-8306237003741124388" />
+<img align="right" width=300px alt="Unicorn" src="https://tenor.com/j3KOGBkwIam.gif" />
 
 ***About me***
 
